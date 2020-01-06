@@ -1,3 +1,4 @@
 testing this stuff
 adding a second line
 Great, those two lines worked- now I am updating with this third line!
+Just to be sure I have exited, closed down command line, atom and git, and re initilised to submit on existing file
